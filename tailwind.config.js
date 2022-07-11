@@ -5,7 +5,8 @@ module.exports = {
     fontFamily: {
       'inter': ['inter', 'sans-serif'],
       'poppins': ['poppins', 'serif'],
-      'space-mono': ['space-mono']
+      'space-mono': ['space-mono'],
+      'quicksand': ['quicksand', 'sans-serif'],
     },
   },
   plugins: [require("@tailwindcss/typography"), require("daisyui")],

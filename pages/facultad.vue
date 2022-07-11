@@ -35,7 +35,7 @@ export default defineComponent({
     setup() {
         const option = ref({
             title: {
-                text: "Traffic Sources",
+                text: "Facultad",
                 left: "center"
             },
             tooltip: {
