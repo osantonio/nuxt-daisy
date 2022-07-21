@@ -13,9 +13,9 @@ module.exports = {
   // daisyUI config (optional)
   daisyui: {
     themes: [
-{
-        dawn: {
-          "primary": "#d7827e",
+      {
+        light: {
+          "primary": "#9333EA",
           "secondary": "#286983",
           "accent": "#b4637a",
           "neutral": "#f2e9e1",
@@ -27,9 +27,9 @@ module.exports = {
         },
       },
       {
-        rosepine: {
-          "primary": "#ea9a97",
-          "secondary": "#3e8fb0",
+        dark: {
+          "primary": "#D050B2",
+          "secondary": "#286983",
           "accent": "#eb6f92",
           "neutral": "#393552",
           "base-100": "#191724",
@@ -37,32 +37,6 @@ module.exports = {
           "success": "#c4a7e7",
           "warning": "#f6c177",
           "error": "#b4637a",
-        },
-      },
-      {
-        adatar: {     
-          "primary": "#0a962f",
-          "secondary": "#879b07",
-          "accent": "#eaea67",
-          "neutral": "#1D1B22",
-          "base-100": "#F8F4FA",
-          "info": "#5484F2",
-          "success": "#61EAC1",
-          "warning": "#DF8911",
-          "error": "#E86045",
-        },
-      },
-      {
-        lofi2: {        
-          "primary": "#0D0D0D",        
-          "secondary": "#1A1919",        
-          "accent": "#262626",        
-          "neutral": "#000000",        
-          "base-100": "#FFFFFF",
-          "info": "#0072F5",
-          "success": "#21CA51",       
-          "warning": "#FF6052", 
-          "error": "#DE1B8D",
         },
       },
     ],

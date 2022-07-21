@@ -10,7 +10,7 @@ const themeStore = useThemeStore();
 </script>
 
 <template>
-  <div :data-theme="themeStore.theme.dark ? 'lofi2' : 'dawn'">
+  <div :data-theme="themeStore.theme.dark ? 'light' : 'dark' ">
     <!-- <div class="m-2">
       Current route: <code>{{ route.path }}</code>
     </div> -->
